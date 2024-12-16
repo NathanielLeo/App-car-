@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700");
+/* // Font awesome 5 */
+/* @import "../fonts/fontawesome/css/all.min.css"; */
+@import "./assets/fonts/fontawesome/css/all.min.css";
+/* // Custom CSS */
+@import "./assets/css/responsive.css";
+@import "./assets/css/ui.css";
+/* // Bootstrap */
+@import "./assets/css/bootstrap.css";
